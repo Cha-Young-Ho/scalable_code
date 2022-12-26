@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.cglib;
 
 import org.springframework.cglib.proxy.MethodInterceptor;
 import org.springframework.cglib.proxy.MethodProxy;

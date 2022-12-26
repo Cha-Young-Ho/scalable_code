@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.cglib;
 
 public class ConcreteService {
 
